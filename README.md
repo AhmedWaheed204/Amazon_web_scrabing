@@ -1,2 +1,1 @@
-# Amazon_web_scrabing
-Web Scraping Amazon PlayStation 4 Data
+# amazon-web-scraping-python-project
